@@ -318,7 +318,7 @@ Work
 }
 .work .oplayner img {
     padding-top: 1.5em;
-    padding-left: 2em;
+    padding-left: 6em;
     max-height: 320px;
     filter: grayscale(1);
 }
@@ -375,13 +375,13 @@ Contact
     transition: all 0.3s ease;
 }
 .contact .content .mail {
-    max-height: 98px;
-    margin-left: 24em;
-    margin-right: 18em;
-}
-.contact .content .linkedin {
-    max-height: 78px;
-}
+        max-height: 58px;
+        margin-left: 26em;
+        margin-right: 18em;
+    }
+    .contact .content .linkedin {
+        max-height: 48px;
+    }
 
 /***
 
